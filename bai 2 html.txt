@@ -1,0 +1,49 @@
+</body>  
+  
+  <div id="footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+          <h2>Liên hệ</h2>
+          <ul>
+            <li><a href="">Email: nguyenthithuytrang160923.com</a></li>
+            <li><a href="">Điện thoại: 0123456789</a></li>
+            <li><a href="">Địa chỉ: Hồ Chí Minh</a></li>
+          </ul>
+        </div>
+       <div class="col-md-4">
+          <h2>Tổng quan</h2>
+          <ul>
+            <li><a href="">Trang chủ</a></li>
+            <li><a href="">Địa điểm</a></li>
+            <li><a href="">Liên hệ</a></li>
+          </ul>
+        </div>
+        
+        <div class="col-md-4">
+          <h2>Theo dõi</h2>
+       
+          <ul class="social-media">
+            <li><a href="https://www.facebook.com/trieu.labuithang"><i class="fab fa-facebook"></i></a></li>
+            <li><a href="https://www.instagram.com/thanh_trieu/"><i class="fab fa-instagram"></i></a></li> 
+            <li><a href="https://www.tiktok.com/@trieuvodanh?is_from_webapp=1&sender_device=pc"><i class="fab fa-tiktok"></i></a></li>
+      
+          </ul>
+        </div>
+      
+      </div>
+    </div>
+  </div>  
+  </footer>
+
+    <center>
+    <div class="bottom-bar">    
+      <p> CẢM ƠN BẠN ĐÃ GHÉ THĂM TRANG WEB </p>
+    </div>
+    </center>
+    
+    
+    
+ </center>   
+  
+</html>
